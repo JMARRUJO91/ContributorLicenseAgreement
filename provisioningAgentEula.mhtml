@@ -1,0 +1,939 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://download.msappproxy.net/Subscription/d3c8b69d-6bf7-42be-a529-3fe9c2e70c90/Connector/provisioningAgentEula
+Subject: 
+Date: Thu, 30 May 2024 15:10:06 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--jHX3ykSBexnGvGdfopdJOaZkuyFLMHISD8W0EPe3Zd----"
+
+
+------MultipartBoundary--jHX3ykSBexnGvGdfopdJOaZkuyFLMHISD8W0EPe3Zd----
+Content-Type: text/html
+Content-ID: <frame-20994E77D300F845F5C1012BCB153D19@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://download.msappproxy.net/Subscription/d3c8b69d-6bf7-42be-a529-3fe9c2e70c90/Connector/provisioningAgentEula
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css=
+-328fb9cb-cb15-4934-b88b-1a7be5f660c7@mhtml.blink" />
+
+<meta content=3D"text/html; charset=3Dwindows-1252">
+<meta name=3D"ProgId" content=3D"Word.Document">
+<meta name=3D"Generator" content=3D"Microsoft Word 15">
+<meta name=3D"Originator" content=3D"Microsoft Word 15">
+
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple" style=3D"word-wrap:brea=
+k-word">
+<div class=3D"WordSection1">
+<p class=3D"HeadingEULA" style=3D"margin-left:0in; text-indent:0in">MICROSO=
+FT SOFTWARE LICENSE TERMS</p>
+<p class=3D"HeadingSoftwareTitle" style=3D"margin-top:6.0pt; margin-right:0=
+in; margin-bottom:6.0pt; margin-left:0in; text-indent:0in; border:none">
+MICROSOFT AZURE ACTIVE DIRECTORY CONNECT</p>
+<div class=3D"HeadingSoftwareTitle" style=3D"margin:0in; margin-bottom:.000=
+1pt; text-indent:0in; border:none">
+<hr size=3D"1" width=3D"614" noshade=3D"" align=3D"left" style=3D"width:6.4=
+in; color:#7F7F7F">
+</div>
+<p class=3D"Preamble" style=3D"margin-left:0in; text-indent:0in"><span lang=
+=3D"EN" style=3D"">These license terms are an agreement between you and Mic=
+rosoft Corporation (or one of its affiliates). They apply to the software n=
+amed above. IF YOU COMPLY WITH THESE LICENSE
+ TERMS, YOU HAVE THE RIGHTS BELOW.</span> BY USING THE SOFTWARE, YOU ACCEPT=
+ THESE TERMS.<span lang=3D"EN" style=3D""></span></p>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l5 level1 =
+lfo15"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">=
+1.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span></b><b>INSTALLATION AND USE RIGHTS.</b></h1>
+<h2 style=3D"margin-left:.5in; text-indent:-18.15pt; mso-list:l6 level2 lfo=
+14"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">a)<=
+span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b>General.</b> You may install and use one copy o=
+f the software on your device. You may make one backup copy of the software=
+ for the sole purpose of reinstalling the software.<b></b></h2>
+<h2 style=3D"margin-left:.5in; text-indent:-18.15pt; mso-list:l6 level2 lfo=
+14"><a name=3D"_Hlk525135722"><b><span style=3D"font-size:10.0pt"><span sty=
+le=3D"mso-list:Ignore">b)<span style=3D"font:7.0pt &quot;Times New Roman&qu=
+ot;">&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b>Included Microsoft Programs.</b> The software <=
+/a>will silently or interactively install other Microsoft programs listed b=
+elow if they do not already exist on your device. Unless otherwise specifie=
+d herein, these license terms and
+ any additional terms listed in this Section 1b apply to your use of those =
+programs when used in connection with the software. Use of these Microsoft =
+programs on a standalone basis shall be subject to the license terms associ=
+ated with such Microsoft program(s).<b></b></h2>
+<p class=3D"MsoNormal" style=3D"margin-top:6.0pt; margin-right:0in; margin-=
+bottom:6.0pt; margin-left:53.85pt; text-indent:-17.85pt">
+<span class=3D"SpellE"><span style=3D"color:black">i</span></span><span sty=
+le=3D"color:black">.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><u><span style=3D"=
+color:black; font-weight:normal">Microsoft Windows
+<span class=3D"SpellE">Powershell</span> Module for Windows Azure Active Di=
+rectory</span></u><span style=3D"color:black"></span></p>
+<p class=3D"MsoNormal" style=3D"margin-top:6.0pt; margin-right:0in; margin-=
+bottom:6.0pt; margin-left:53.85pt; text-indent:-17.85pt">
+<span style=3D"color:black">ii.&nbsp;&nbsp;&nbsp;&nbsp;</span><u><span styl=
+e=3D"color:black; font-weight:normal">Microsoft Online Services Sign-In Ass=
+istant</span></u><span style=3D"color:black"></span></p>
+<p class=3D"MsoNormal" style=3D"margin-top:6.0pt; margin-right:0in; margin-=
+bottom:6.0pt; margin-left:53.85pt; text-indent:-17.85pt">
+<span style=3D"color:black">iii.&nbsp;&nbsp; </span><u><span style=3D"color=
+:black; font-weight:normal">Microsoft SQL Server 2012 Express
+<span class=3D"SpellE">LocalDB</span></span></u><span style=3D"color:black"=
+></span></p>
+<p class=3D"MsoNormal" style=3D"margin-top:6.0pt; margin-right:0in; margin-=
+bottom:6.0pt; margin-left:53.85pt; text-indent:-17.85pt">
+<span style=3D"color:black">iv.&nbsp;&nbsp; </span><u><span style=3D"color:=
+black; font-weight:normal">Microsoft SQL Server 2012 Native Client</span></=
+u><span style=3D"color:black; font-weight:normal">.&nbsp;The software inclu=
+des other Microsoft programs listed at&nbsp;</span><a href=3D"http://go.mic=
+rosoft.com/fwlink/?LinkID=3D231864"><span style=3D"color:purple; font-weigh=
+t:normal">http://go.microsoft.com/fwlink/?LinkID=3D231864</span></a><span s=
+tyle=3D"color:black; font-weight:normal">,
+ which are licensed under the terms and conditions associated with them.&nb=
+sp;You may only use these programs in conjunction with Microsoft SQL Server=
+ 2012 Native Client and/or the software licensed here.&nbsp;If you do not a=
+ccept the license terms associated with a
+ program, you may not use that program.</span><span style=3D"color:black"><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"margin-top:6.0pt; margin-right:0in; margin-=
+bottom:6.0pt; margin-left:53.85pt; text-indent:-17.85pt">
+<span style=3D"color:black">v.&nbsp;&nbsp;&nbsp; </span><u><span style=3D"c=
+olor:black; font-weight:normal">Microsoft Visual C++ Redistributable for Vi=
+sual Studio 2013</span></u><span style=3D"color:black"></span></p>
+<p class=3D"MsoNormal" style=3D"margin-top:6.0pt; margin-right:0in; margin-=
+bottom:6.0pt; margin-left:53.85pt; text-indent:-17.85pt">
+<span style=3D"color:black">vi.&nbsp;&nbsp; </span><u><span style=3D"color:=
+black; font-weight:normal">Microsoft Azure Active Directory Connect Health =
+AD FS Agent</span></u><span style=3D"color:black; font-weight:normal"></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"margin-top:6.0pt; margin-right:0in; margin-=
+bottom:6.0pt; margin-left:53.85pt; text-indent:-17.85pt">
+<span style=3D"color:black">vii.&nbsp; </span><u><span style=3D"color:black=
+; font-weight:normal">Microsoft Azure Active Directory Authentication
+<span class=3D"GramE">Agent<span style=3D"text-decoration:none">&nbsp;&nbsp=
+;Certain</span></span></span></u><span style=3D"color:black; font-weight:no=
+rmal"> features or functionality in this
+<span style=3D"">&nbsp;</span>program may require a Azure Active Directory =
+Premium subscription</span><span style=3D"color:black">.</span></p>
+<h2 style=3D"margin-left:.5in; text-indent:-18.15pt; mso-list:l6 level2 lfo=
+14"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">c)<=
+span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b>Third Party Components.</b> The software may in=
+clude third party components with separate legal notices or governed by oth=
+er agreements, as may be described in the
+<span class=3D"SpellE">ThirdPartyNotices</span> file(s) accompanying the so=
+ftware.<b></b></h2>
+<h2 style=3D"margin-left:.5in; text-indent:-18.15pt; mso-list:l6 level2 lfo=
+14"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">d)<=
+span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b><span lang=3D"EN" style=3D"">Competitive Benchm=
+arking</span></b><span lang=3D"EN" style=3D"">. If you are a direct competi=
+tor, and you access or use the software for purposes of competitive benchma=
+rking, analysis, or intelligence gathering,
+ you waive as against Microsoft, its subsidiaries, and its affiliated compa=
+nies (including prospectively) any competitive use, access, and benchmarkin=
+g test restrictions in the terms governing your software to the extent your=
+ terms of use are, or purport to
+ be, more restrictive than Microsoft=E2=80=99s terms. If you do not waive a=
+ny such purported restrictions in the terms governing your software, you ar=
+e not allowed to access or use this software, and will not do so.</span><b>=
+</b></h2>
+<h1 style=3D"margin-left:.25in; mso-list:l12 level1 lfo19"><a name=3D"_Hlk5=
+25136947"><b><span style=3D""><span style=3D"mso-list:Ignore">2.<span style=
+=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b>DATA</b>. <b></b></a></h1>
+<h1 style=3D"margin-top:6.0pt; margin-right:0in; margin-bottom:6.0pt; margi=
+n-left:.5in; text-indent:-18.15pt; mso-list:l15 level2 lfo17">
+<span style=3D""><b><span style=3D"font-size:10.0pt"><span style=3D"mso-lis=
+t:Ignore">a)<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&n=
+bsp;&nbsp;
+</span></span></span></b><b>Data Collection.</b> The software may collect i=
+nformation about you and your use of the
+<span class=3D"GramE">software, and</span> send that to Microsoft. Microsof=
+t may use this information to provide services and improve our products and=
+ services. You may opt-out of many of these scenarios, but not all, as desc=
+ribed in the product documentation.&nbsp;
+ There are also some features in the software that may enable you to collec=
+t data from users of your applications. If you use these features to enable=
+ data collection in your applications, you must comply with applicable law,=
+ including providing appropriate
+ notices to users of your applications. You can learn more about data colle=
+ction and use in the help documentation and the privacy statement at
+</span><a href=3D"https://aka.ms/privacy"><span style=3D""><span style=3D""=
+>https://aka.ms/privacy</span></span></a><span style=3D"">. Your use of the=
+ software operates as your consent to these practices.<b></b></span></h1>
+<h1 style=3D"margin-top:6.0pt; margin-right:0in; margin-bottom:6.0pt; margi=
+n-left:.5in; text-indent:-18.15pt; mso-list:l15 level2 lfo17">
+<span style=3D""><b><span style=3D"font-size:10.0pt"><span style=3D"mso-lis=
+t:Ignore">b)<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&n=
+bsp;&nbsp;
+</span></span></span></b><b>Processing of Personal Data</b>. To the extent =
+Microsoft is a processor or
+<span class=3D"SpellE">subprocessor</span> of personal data in connection w=
+ith the software, Microsoft makes the commitments in the European Union Gen=
+eral Data Protection Regulation Terms of the Online Services Terms to all c=
+ustomers effective May 25, 2018, at
+</span><a href=3D"https://docs.microsoft.com/en-us/legal/gdpr"><span style=
+=3D""><span style=3D"">https://docs.microsoft.com/en-us/legal/gdpr</span></=
+span></a><span style=3D"">.<b></b></span></h1>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l7 level1 =
+lfo21"><span style=3D""><b><span style=3D"font-size:10.0pt"><span style=3D"=
+mso-list:Ignore">3.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&=
+nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b>SCOPE OF LICENSE.</b> The software is licensed,=
+ not sold. Microsoft reserves all other rights. Unless applicable law gives=
+ you more rights despite this limitation, you will not (and have no right t=
+o):<b></b></span></h1>
+<p class=3D"Bullet2" style=3D"margin-left:.5in; mso-list:l11 level1 lfo20">=
+<span style=3D""><span style=3D""><span style=3D"mso-list:Ignore">a)<span s=
+tyle=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span><span style=3D"font-weight:normal">work around any tec=
+hnical limitations in the software that only allow you to use it in certain
+<span class=3D"GramE">ways;</span></span></span></p>
+<p class=3D"Bullet2" style=3D"margin-left:.5in; mso-list:l11 level1 lfo20">=
+<span style=3D""><span style=3D""><span style=3D"mso-list:Ignore">b)<span s=
+tyle=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span><span style=3D"font-weight:normal">reverse engineer, d=
+ecompile or disassemble the software, or otherwise attempt to derive the so=
+urce code for the software, except and to the extent required by third part=
+y licensing terms governing use of
+ certain open source components that may be included in the software;</span=
+></span></p>
+<p class=3D"Bullet2" style=3D"margin-left:.5in; mso-list:l11 level1 lfo20">=
+<span style=3D""><span style=3D""><span style=3D"mso-list:Ignore">c)<span s=
+tyle=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style=3D"font-weight:normal">remove, minimize, b=
+lock, or modify any notices of Microsoft or its suppliers in the
+<span class=3D"GramE">software;</span></span></span></p>
+<p class=3D"Bullet2" style=3D"margin-left:.5in; mso-list:l11 level1 lfo20">=
+<span style=3D""><span style=3D""><span style=3D"mso-list:Ignore">d)<span s=
+tyle=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span><span style=3D"font-weight:normal">use the software in=
+ any way that is against the law or to create or propagate malware; or</spa=
+n></span></p>
+<h1 style=3D"margin-top:6.0pt; margin-right:0in; margin-bottom:6.0pt; margi=
+n-left:.5in; mso-list:l11 level1 lfo20">
+<span style=3D""><b><span style=3D""><span style=3D"mso-list:Ignore">e)<spa=
+n style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span></b>share, publish, distribute, or lease the software,=
+ provide the software as a stand-alone offering for others to use, or trans=
+fer the software or this agreement to any third party.<b></b></span></h1>
+<span style=3D""></span>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l7 level1 =
+lfo21"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">=
+4.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span></b><b>EXPORT RESTRICTIONS.</b> You must comply with a=
+ll domestic and international export laws and regulations that apply to the=
+ software, which include restrictions on destinations, end users, and end u=
+se. For further information on export
+ restrictions, visit <a href=3D"https://aka.ms/exporting"><span style=3D"">=
+https://aka.ms/exporting</span></a>.<b></b></h1>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l7 level1 =
+lfo21"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">=
+5.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span></b><b>SUPPORT SERVICES.</b> Microsoft is not obligate=
+d under this agreement to provide any support services for the software. An=
+y support provided is =E2=80=9Cas is=E2=80=9D, =E2=80=9Cwith all faults=E2=
+=80=9D, and without warranty of any kind.<span style=3D"color:orangered">
+</span><b></b></h1>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l7 level1 =
+lfo21"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">=
+6.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span></b><b>ENTIRE AGREEMENT.</b> This agreement, and any o=
+ther terms Microsoft may provide for supplements, updates, or third-party a=
+pplications, is the entire agreement for the software.<b></b></h1>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l7 level1 =
+lfo21"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">=
+7.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span></b><b>APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES. <=
+/b>If you acquired the software in the United States or Canada, the laws of=
+ the state or province where you live (or, if a business, where your princi=
+pal place of business is located)
+ govern the interpretation of this agreement, claims for its breach, and al=
+l other claims (including consumer protection, unfair competition, and tort=
+ claims), regardless of conflict of laws principles. If you acquired the so=
+ftware in any other country, its
+ laws apply. If U.S. federal jurisdiction exists, you and Microsoft consent=
+ to exclusive jurisdiction and venue in the federal court in King County, W=
+ashington for all disputes heard in court. If not, you and Microsoft consen=
+t to exclusive jurisdiction and
+ venue in the Superior Court of King County, Washington for all disputes he=
+ard in court.<b></b></h1>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l7 level1 =
+lfo21"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">=
+8.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span></b><b>CONSUMER RIGHTS; REGIONAL VARIATIONS.</b> This =
+agreement describes certain legal rights. You may have other rights, includ=
+ing consumer rights, under the laws of your state, province, or country. Se=
+parate and apart from your relationship
+ with Microsoft, you may also have rights with respect to the party from wh=
+ich you acquired the software. This agreement does not change those other r=
+ights if the laws of your state, province, or country do not permit it to d=
+o so. For example, if you acquired
+ the software in one of the below regions, or mandatory country law applies=
+, then the following provisions apply to you:<b></b></h1>
+<h2 style=3D"margin-left:.5in; mso-list:l4 level2 lfo12"><b><span style=3D"=
+"><span style=3D"mso-list:Ignore">a)<span style=3D"font:7.0pt &quot;Times N=
+ew Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b>Australia.</b> You have statutory guarantees un=
+der the Australian Consumer Law and nothing in this agreement is intended t=
+o affect those rights.<b></b></h2>
+<h2 style=3D"margin-left:.5in; mso-list:l4 level2 lfo12"><b><span style=3D"=
+"><span style=3D"mso-list:Ignore">b)<span style=3D"font:7.0pt &quot;Times N=
+ew Roman&quot;">&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b>Canada.</b> If you acquired this software in Ca=
+nada, you may stop receiving updates by turning off the automatic update fe=
+ature, disconnecting your device from the Internet (if and when you re-conn=
+ect to the Internet, however, the
+ software will resume checking for and installing updates), or uninstalling=
+ the software. The product documentation, if any, may also specify how to t=
+urn off updates for your specific device or software.<b></b></h2>
+<h2 style=3D"margin-left:.5in; mso-list:l4 level2 lfo12"><b><span style=3D"=
+"><span style=3D"mso-list:Ignore">c)<span style=3D"font:7.0pt &quot;Times N=
+ew Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><b>Germany and Austria</b>.<b></b></h2>
+<p class=3D"MsoNormal" style=3D"margin-left:.75in"><span class=3D"SpellE">i=
+</span>.<span style=3D"">&nbsp;&nbsp;&nbsp;
+</span>Warranty. <span style=3D"font-weight:normal">The properly licensed s=
+oftware will perform substantially as described in any Microsoft materials =
+that accompany the software. However, Microsoft gives no contractual guaran=
+tee in relation to the licensed software.</span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:.75in">ii.<span style=3D"">&nbs=
+p;&nbsp; </span>Limitation of Liability.
+<span style=3D"font-weight:normal">In case of intentional conduct, gross ne=
+gligence, claims based on the Product Liability Act, as well as, in case of=
+ death or personal or physical injury, Microsoft is liable according to the=
+ statutory law.</span></p>
+<h1 style=3D"margin-left:.5in; text-indent:0in">Subject to the foregoing cl=
+ause ii., Microsoft will only be liable for slight negligence if Microsoft =
+is in breach of such material contractual obligations, the fulfillment of w=
+hich facilitate the due performance
+ of this agreement, the breach of which would endanger the purpose of this =
+agreement and the compliance with which a party may constantly trust in (so=
+-called "cardinal obligations"). In other cases of slight negligence, Micro=
+soft will not be liable for slight
+ negligence.</h1>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l7 level1 =
+lfo21"><b><span style=3D"font-size:10.0pt"><span style=3D"mso-list:Ignore">=
+9.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span></b><b>DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSE=
+D =E2=80=9CAS IS.=E2=80=9D YOU BEAR THE RISK OF USING IT. MICROSOFT GIVES N=
+O EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS. TO THE EXTENT PERMITTED UN=
+DER APPLICABLE LAWS, MICROSOFT EXCLUDES ALL IMPLIED
+ WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, A=
+ND NON-INFRINGEMENT.</b></h1>
+<h1 style=3D"margin-left:17.85pt; text-indent:-17.85pt; mso-list:l7 level1 =
+lfo21"><a name=3D"_Hlk525205492"><b><span style=3D"font-size:10.0pt"><span =
+style=3D"mso-list:Ignore">10.<span style=3D"font:7.0pt &quot;Times New Roma=
+n&quot;">
+</span></span></span></b><b>LIMITATION ON AND EXCLUSION OF DAMAGES. IF YOU =
+HAVE ANY BASIS FOR RECOVERING DAMAGES DESPITE THE PRECEDING DISCLAIMER OF W=
+ARRANTY, YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAG=
+ES UP TO U.S. $5.00. YOU CANNOT
+ RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, </b></a>=
+<b>SPECIAL,
+<span class=3D"GramE">INDIRECT</span> OR INCIDENTAL DAMAGES.</b></h1>
+<p class=3D"Body1" style=3D"margin-left:.25in; text-indent:0in">This limita=
+tion applies to (a) anything related to the software, services, content (in=
+cluding code) on third party Internet sites, or third party applications; a=
+nd (b) claims for breach of contract,
+ warranty, guarantee, or condition; strict liability, negligence, or other =
+tort; or any other claim; in each case to the extent permitted by applicabl=
+e law.</p>
+<p class=3D"Body1" style=3D"text-indent:.15pt">It also applies even if Micr=
+osoft knew or should have known about the possibility of the damages. The a=
+bove limitation or exclusion may not apply to you because your state, provi=
+nce, or country may not allow the exclusion
+ or limitation of incidental, consequential, or other damages.</p>
+<p class=3D"MsoNormal" style=3D"margin-left:0in; text-indent:0in"><span sty=
+le=3D"color:orangered">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"margin-left:0in; text-indent:0in">Please no=
+te: As this software is distributed in Canada, some of the clauses in this =
+agreement are provided below in French.</p>
+<p class=3D"MsoNormal" style=3D"margin-left:0in; text-indent:0in">Remarque:=
+ Ce <span class=3D"SpellE">
+logiciel</span> <span class=3D"SpellE">=C3=A9tant</span> <span class=3D"Spe=
+llE">distribu=C3=A9</span> au Canada,
+<span class=3D"SpellE">certaines</span> des clauses dans <span class=3D"Spe=
+llE">ce</span>
+<span class=3D"SpellE">contrat</span> <span class=3D"SpellE">sont</span> <s=
+pan class=3D"SpellE">
+fournies</span> ci-dessous <span class=3D"SpellE">en</span> <span class=3D"=
+SpellE">fran=C3=A7ais</span>.</p>
+<p class=3D"MsoNormal" style=3D"margin-left:0in; text-indent:0in">EXON=C3=
+=89RATION DE GARANTIE. Le
+<span class=3D"SpellE">logiciel</span> <span class=3D"SpellE">vis=C3=A9</sp=
+an> par <span class=3D"SpellE">
+une</span> <span class=3D"SpellE">licence</span> <span class=3D"SpellE">est=
+</span> <span class=3D"SpellE">
+offert</span> =C2=AB <span class=3D"SpellE">tel</span> <span class=3D"Spell=
+E">quel</span> =C2=BB.
+<span class=3D"SpellE">Toute</span> <span class=3D"SpellE">utilisation</spa=
+n> de <span class=3D"SpellE">
+ce</span> <span class=3D"SpellE">logiciel</span> <span class=3D"SpellE">est=
+</span> =C3&nbsp; <span class=3D"SpellE">
+votre</span> <span class=3D"SpellE">seule</span> <span class=3D"SpellE">ris=
+que</span> et
+<span class=3D"SpellE">p=C3=A9ril</span>. Microsoft <span class=3D"SpellE">=
+n=E2=80=99accorde</span>
+<span class=3D"SpellE">aucune</span> <span class=3D"SpellE">autre</span> <s=
+pan class=3D"SpellE">
+garantie</span> <span class=3D"SpellE">expresse</span>. <span class=3D"Spel=
+lE">Vous</span>
+<span class=3D"SpellE">pouvez</span> <span class=3D"SpellE">b=C3=A9n=C3=A9f=
+icier</span> de droits
+<span class=3D"SpellE">additionnels</span> <span class=3D"SpellE">en</span>=
+ vertu du droit local sur la protection des
+<span class=3D"SpellE">consommateurs</span>, que <span class=3D"SpellE">ce<=
+/span> <span class=3D"SpellE">
+contrat</span> ne <span class=3D"SpellE">peut</span> modifier. La <span cla=
+ss=3D"SpellE">
+ou</span> <span class=3D"SpellE">elles</span> <span class=3D"SpellE">sont</=
+span> <span class=3D"SpellE">
+permises</span> par le droit locale, les <span class=3D"SpellE">garanties</=
+span> <span class=3D"SpellE">
+implicites</span> de <span class=3D"SpellE">qualit=C3=A9</span> <span class=
+=3D"SpellE">marchande</span>,
+<span class=3D"SpellE">d=E2=80=99ad=C3=A9quation</span> =C3&nbsp; un usage =
+particulier et <span class=3D"SpellE">
+d=E2=80=99absence</span> de <span class=3D"SpellE">contrefa=C3=A7on</span> =
+<span class=3D"SpellE">
+sont</span> <span class=3D"SpellE">exclues</span>.</p>
+<p class=3D"MsoNormal" style=3D"margin-left:0in; text-indent:0in">LIMITATIO=
+N DES DOMMAGES-INT=C3=89R=C3=8ATS ET EXCLUSION DE RESPONSABILIT=C3=89 POUR =
+LES DOMMAGES.
+<span class=3D"SpellE">Vous</span> <span class=3D"SpellE">pouvez</span> <sp=
+an class=3D"SpellE">
+obtenir</span> de Microsoft et de <span class=3D"SpellE">ses</span> <span c=
+lass=3D"SpellE">
+fournisseurs</span> <span class=3D"SpellE">une</span> <span class=3D"SpellE=
+">indemnisation</span>
+<span class=3D"SpellE">en</span> <span class=3D"SpellE">cas</span> de <span=
+ class=3D"SpellE">
+dommages</span> directs <span class=3D"SpellE">uniquement</span> =C3&nbsp; =
+hauteur de 5,00 $ US.
+<span class=3D"SpellE">Vous</span> ne <span class=3D"SpellE">pouvez</span> =
+<span class=3D"SpellE">
+pr=C3=A9tendre</span> =C3&nbsp; <span class=3D"SpellE">aucune</span> <span =
+class=3D"SpellE">indemnisation</span> pour les
+<span class=3D"SpellE">autres</span> <span class=3D"SpellE">dommages</span>=
+, y <span class=3D"SpellE">
+compris</span> les <span class=3D"SpellE">dommages</span> <span class=3D"Sp=
+ellE">sp=C3=A9ciaux</span>,
+<span class=3D"SpellE">indirects</span> <span class=3D"SpellE">ou</span> <s=
+pan class=3D"SpellE">
+accessoires</span> et <span class=3D"SpellE">pertes</span> de <span class=
+=3D"SpellE">
+b=C3=A9n=C3=A9fices</span>.</p>
+<p class=3D"MsoNormal" style=3D"margin-left:0in; text-indent:0in"><span cla=
+ss=3D"SpellE">Cette</span> limitation
+<span class=3D"SpellE">concerne</span>:</p>
+<p class=3D"MsoNormal" style=3D"margin-left:.25in">=E2=80=A2<span style=3D"=
+">&nbsp;&nbsp;&nbsp; </span>tout <span class=3D"SpellE">
+ce</span> qui <span class=3D"SpellE">est</span> <span class=3D"SpellE">reli=
+=C3=A9</span> au
+<span class=3D"SpellE">logiciel</span>, aux services <span class=3D"SpellE"=
+>ou</span> au
+<span class=3D"SpellE">contenu</span> (y <span class=3D"SpellE">compris</sp=
+an> le code) figurant sur des sites Internet tiers
+<span class=3D"SpellE">ou</span> dans des <span class=3D"SpellE">programmes=
+</span> tiers; et</p>
+<p class=3D"MsoNormal" style=3D"margin-left:.25in">=E2=80=A2<span style=3D"=
+">&nbsp;&nbsp;&nbsp; </span>les <span class=3D"SpellE">
+r=C3=A9clamations</span> au <span class=3D"SpellE">titre</span> de violatio=
+n de <span class=3D"SpellE">
+contrat</span> <span class=3D"SpellE">ou</span> de <span class=3D"SpellE">g=
+arantie</span>,
+<span class=3D"SpellE">ou</span> au <span class=3D"SpellE">titre</span> de =
+<span class=3D"SpellE">
+responsabilit=C3=A9</span> <span class=3D"SpellE">stricte</span>, de <span =
+class=3D"SpellE">
+n=C3=A9gligence</span> <span class=3D"SpellE">ou</span> <span class=3D"Spel=
+lE">d=E2=80=99une</span>
+<span class=3D"SpellE">autre</span> <span class=3D"SpellE">faute</span> dan=
+s la <span class=3D"SpellE">
+limite</span> <span class=3D"SpellE">autoris=C3=A9e</span> <span class=3D"S=
+pellE">par</span> la
+<span class=3D"SpellE">loi</span> <span class=3D"SpellE">en</span> <span cl=
+ass=3D"SpellE">
+vigueur</span>.</p>
+<p class=3D"MsoNormal" style=3D"margin-left:0in; text-indent:0in">Elle <spa=
+n class=3D"SpellE">
+s=E2=80=99applique</span> <span class=3D"SpellE">=C3=A9galement</span>, <sp=
+an class=3D"SpellE">m=C3=AAme</span>
+<span class=3D"SpellE">si</span> Microsoft <span class=3D"SpellE">connaissa=
+it</span> <span class=3D"SpellE">
+ou</span> <span class=3D"SpellE">devrait</span> <span class=3D"SpellE">conn=
+a=C3=AEtre</span>
+<span class=3D"SpellE">l=E2=80=99=C3=A9ventualit=C3=A9</span> d=E2=80=99un =
+<span class=3D"SpellE">tel</span> <span class=3D"SpellE">
+dommage</span>. Si <span class=3D"SpellE">votre</span> pays <span class=3D"=
+SpellE">n=E2=80=99autorise</span> pas
+<span class=3D"SpellE">l=E2=80=99exclusion</span> <span class=3D"SpellE">ou=
+</span> la limitation de
+<span class=3D"SpellE">responsabilit=C3=A9</span> pour les <span class=3D"S=
+pellE">dommages</span>
+<span class=3D"SpellE">indirects</span>, <span class=3D"SpellE">accessoires=
+</span> <span class=3D"SpellE">
+ou</span> de <span class=3D"SpellE">quelque</span> nature que <span class=
+=3D"SpellE">
+ce</span> <span class=3D"SpellE">soit</span>, il se <span class=3D"SpellE">=
+peut</span> que la limitation
+<span class=3D"SpellE">ou</span> <span class=3D"SpellE">l=E2=80=99exclusion=
+</span> ci-dessus ne
+<span class=3D"SpellE">s=E2=80=99appliquera</span> pas =C3&nbsp; <span clas=
+s=3D"SpellE">votre</span> <span class=3D"SpellE">
+=C3=A9gard</span>.</p>
+<p class=3D"Body1" style=3D"margin-left:0in; text-indent:0in">EFFET JURIDIQ=
+UE. Le <span class=3D"SpellE">
+pr=C3=A9sent</span> <span class=3D"SpellE">contrat</span> <span class=3D"Sp=
+ellE">d=C3=A9crit</span>
+<span class=3D"SpellE">certains</span> droits <span class=3D"SpellE">juridi=
+ques</span>.
+<span class=3D"SpellE">Vous</span> <span class=3D"SpellE">pourriez</span> <=
+span class=3D"SpellE">
+avoir</span> <span class=3D"SpellE">d=E2=80=99autres</span> droits <span cl=
+ass=3D"SpellE">pr=C3=A9vus</span> par les
+<span class=3D"SpellE">lois</span> de <span class=3D"SpellE">votre</span> p=
+ays. Le <span class=3D"SpellE">
+pr=C3=A9sent</span> <span class=3D"SpellE">contrat</span> ne <span class=3D=
+"SpellE">modifie</span> pas les droits que
+<span class=3D"SpellE">vous</span> <span class=3D"SpellE">conf=C3=A8rent</s=
+pan> les <span class=3D"SpellE">
+lois</span> de <span class=3D"SpellE">votre</span> pays <span class=3D"Spel=
+lE">si</span>
+<span class=3D"SpellE">celles</span>-ci ne le <span class=3D"SpellE">permet=
+tent</span> pas.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+
+
+</body></html>
+------MultipartBoundary--jHX3ykSBexnGvGdfopdJOaZkuyFLMHISD8W0EPe3Zd----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-328fb9cb-cb15-4934-b88b-1a7be5f660c7@mhtml.blink
+
+@charset "windows-1252";
+
+@font-face { font-family: Wingdings; }
+
+@font-face { font-family: "MS Mincho"; }
+
+@font-face { font-family: "Cambria Math"; }
+
+@font-face { font-family: "Trebuchet MS"; }
+
+@font-face { font-family: Tahoma; }
+
+@font-face { }
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 6pt 0in 0in 1.25in; text=
+-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-w=
+eight: bold; }
+
+h1 { margin: 6pt 0in 0in 1.25in; text-indent: -0.25in; font-size: 9.5pt; fo=
+nt-family: Tahoma, sans-serif; font-weight: normal; }
+
+h2 { margin: 6pt 0in 0in 1.25in; text-indent: -0.25in; font-size: 9.5pt; fo=
+nt-family: Tahoma, sans-serif; font-weight: normal; }
+
+h3 { margin: 6pt 0in 0in 53.85pt; text-indent: -17.85pt; font-size: 9.5pt; =
+font-family: Tahoma, sans-serif; }
+
+h4 { margin: 6pt 0in 0in 71.75pt; text-indent: -17.9pt; font-size: 9.5pt; f=
+ont-family: Tahoma, sans-serif; }
+
+h5 { margin: 6pt 0in 0in 89.6pt; text-indent: -17.85pt; font-size: 9.5pt; f=
+ont-family: Tahoma, sans-serif; }
+
+h6 { margin: 6pt 0in 0in 107.45pt; text-indent: -17.85pt; font-size: 9.5pt;=
+ font-family: Tahoma, sans-serif; }
+
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7 { margin: 6pt 0in 0in 125.3p=
+t; text-indent: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-serif=
+; font-weight: bold; }
+
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8 { margin: 6pt 0in 0in 143.15=
+pt; text-indent: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-seri=
+f; font-weight: bold; }
+
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9 { margin: 6pt 0in 0in 161.05=
+pt; text-indent: -17.9pt; font-size: 9.5pt; font-family: Tahoma, sans-serif=
+; font-weight: bold; }
+
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText { margin: 6pt 0i=
+n 0in 1.25in; text-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma, =
+sans-serif; font-weight: bold; }
+
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText { margin: 6pt 0in 0=
+in 1.25in; text-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma, san=
+s-serif; font-weight: bold; }
+
+p.MsoHeader, li.MsoHeader, div.MsoHeader { margin: 6pt 0in 0in 1.25in; text=
+-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-w=
+eight: bold; }
+
+p.MsoFooter, li.MsoFooter, div.MsoFooter { margin: 6pt 0in 0in 1.25in; text=
+-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-w=
+eight: bold; }
+
+span.MsoFootnoteReference { font-family: "Times New Roman", serif; vertical=
+-align: super; }
+
+span.MsoCommentReference { font-family: "Times New Roman", serif; }
+
+span.MsoPageNumber { font-family: "Times New Roman", serif; }
+
+span.MsoEndnoteReference { font-family: "Times New Roman", serif; vertical-=
+align: super; }
+
+p.MsoEndnoteText, li.MsoEndnoteText, div.MsoEndnoteText { margin: 6pt 0in 0=
+in 1.25in; text-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma, san=
+s-serif; font-weight: bold; }
+
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent { margin: =
+6pt 0in 0in 1.25in; text-indent: -0.25in; line-height: 200%; font-size: 9.5=
+pt; font-family: Tahoma, sans-serif; font-weight: bold; }
+
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2 { margin: 6pt 0in 0in 1.2=
+5in; text-indent: -0.25in; line-height: 200%; font-size: 9.5pt; font-family=
+: Tahoma, sans-serif; font-weight: bold; }
+
+a:link, span.MsoHyperlink { font-family: "Times New Roman", serif; color: b=
+lue; text-decoration: underline; }
+
+a:visited, span.MsoHyperlinkFollowed { color: purple; text-decoration: unde=
+rline; }
+
+p { margin-right: 0in; margin-left: 1.25in; text-indent: -0.25in; font-size=
+: 12pt; font-family: "Times New Roman", serif; font-weight: bold; }
+
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject { margin: =
+6pt 0in 0in 1.25in; text-indent: -0.25in; font-size: 10pt; font-family: Tah=
+oma, sans-serif; font-weight: normal; }
+
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate { margin: 6pt 0in 0in 1.25in; t=
+ext-indent: -0.25in; font-size: 8pt; font-family: Tahoma, sans-serif; font-=
+weight: bold; }
+
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing { margin: 0in; text-inden=
+t: 0in; font-size: 11pt; font-family: Calibri, sans-serif; font-weight: nor=
+mal; }
+
+p.MsoRMPane, li.MsoRMPane, div.MsoRMPane { margin: 0in; text-indent: 0in; f=
+ont-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: normal; }
+
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph { margin: 6pt=
+ 0in 0in 0.5in; text-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma=
+, sans-serif; font-weight: bold; }
+
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
+raphCxSpFirst { margin: 6pt 0in 0in 0.5in; text-indent: -0.25in; font-size:=
+ 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold; }
+
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
+agraphCxSpMiddle { margin: 0in 0in 0in 0.5in; text-indent: -0.25in; font-si=
+ze: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold; }
+
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
+phCxSpLast { margin: 0in 0in 0in 0.5in; text-indent: -0.25in; font-size: 9.=
+5pt; font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Heading1Char { font-family: Tahoma, sans-serif; }
+
+span.Heading2Char { font-family: Tahoma, sans-serif; }
+
+span.Heading3Char { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Heading4Char { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Heading5Char { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Heading6Char { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Heading7Char { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Heading8Char { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Heading9Char { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+p.Body1, li.Body1, div.Body1 { margin: 6pt 0in 0in 17.85pt; text-indent: -0=
+.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold=
+; }
+
+p.Body2, li.Body2, div.Body2 { margin: 6pt 0in 0in 0.5in; text-indent: -0.2=
+5in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold; =
+}
+
+p.Body3, li.Body3, div.Body3 { margin: 6pt 0in 0in 53.85pt; text-indent: -0=
+.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold=
+; }
+
+p.Body4, li.Body4, div.Body4 { margin: 6pt 0in 0in 71.75pt; text-indent: -0=
+.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold=
+; }
+
+p.Body5, li.Body5, div.Body5 { margin: 6pt 0in 0in 90.15pt; text-indent: -0=
+.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold=
+; }
+
+p.Body6, li.Body6, div.Body6 { margin: 6pt 0in 0in 1.5in; text-indent: -0.2=
+5in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold; =
+}
+
+p.Body7, li.Body7, div.Body7 { margin: 6pt 0in 0in 125.3pt; text-indent: -0=
+.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold=
+; }
+
+p.Body8, li.Body8, div.Body8 { margin: 6pt 0in 0in 143.15pt; text-indent: -=
+0.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bol=
+d; }
+
+p.Body9, li.Body9, div.Body9 { margin: 6pt 0in 0in 161.05pt; text-indent: -=
+0.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bol=
+d; }
+
+p.Bullet1, li.Bullet1, div.Bullet1 { margin: 6pt 0in 0in 17.85pt; text-inde=
+nt: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weigh=
+t: bold; }
+
+p.Bullet2, li.Bullet2, div.Bullet2 { margin: 6pt 0in 0in 1.25in; text-inden=
+t: -0.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight:=
+ bold; }
+
+p.Bullet3, li.Bullet3, div.Bullet3 { margin: 6pt 0in 0in 53.85pt; text-inde=
+nt: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weigh=
+t: bold; }
+
+p.Bullet4, li.Bullet4, div.Bullet4 { margin: 6pt 0in 0in 71.75pt; text-inde=
+nt: -17.9pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight=
+: bold; }
+
+p.Bullet5, li.Bullet5, div.Bullet5 { margin: 6pt 0in 0in 89.6pt; text-inden=
+t: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight=
+: bold; }
+
+p.Bullet6, li.Bullet6, div.Bullet6 { margin: 6pt 0in 0in 107.45pt; text-ind=
+ent: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weig=
+ht: bold; }
+
+p.Bullet7, li.Bullet7, div.Bullet7 { margin: 6pt 0in 0in 125.3pt; text-inde=
+nt: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weigh=
+t: bold; }
+
+p.Bullet8, li.Bullet8, div.Bullet8 { margin: 6pt 0in 0in 143.15pt; text-ind=
+ent: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weig=
+ht: bold; }
+
+p.Bullet9, li.Bullet9, div.Bullet9 { margin: 6pt 0in 0in 161.05pt; text-ind=
+ent: -17.9pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weigh=
+t: bold; }
+
+p.HeadingEULA, li.HeadingEULA, div.HeadingEULA { margin: 6pt 0in 0in 1.25in=
+; text-indent: -0.25in; font-size: 14pt; font-family: Tahoma, sans-serif; f=
+ont-weight: normal; }
+
+p.HeadingSoftwareTitle, li.HeadingSoftwareTitle, div.HeadingSoftwareTitle {=
+ margin: 6pt 0in 0in 1.25in; text-indent: -0.25in; border: none; padding: 0=
+in; font-size: 14pt; font-family: Tahoma, sans-serif; font-weight: normal; =
+}
+
+p.Preamble, li.Preamble, div.Preamble { margin: 6pt 0in 0in 1.25in; text-in=
+dent: -0.25in; font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weig=
+ht: normal; }
+
+p.PreambleBorder, li.PreambleBorder, div.PreambleBorder { margin: 6pt 0in 0=
+in 1.25in; text-indent: -0.25in; border: none; padding: 0in; font-size: 9.5=
+pt; font-family: Tahoma, sans-serif; font-weight: normal; }
+
+p.HeadingWarranty, li.HeadingWarranty, div.HeadingWarranty { margin: 6pt 0i=
+n 0in 1.25in; text-align: center; text-indent: -0.25in; font-size: 9.5pt; f=
+ont-family: Tahoma, sans-serif; font-weight: normal; }
+
+p.Heading1Warranty, li.Heading1Warranty, div.Heading1Warranty { margin: 6pt=
+ 0in 0in 0.25in; text-indent: -0.25in; font-size: 9.5pt; font-family: Tahom=
+a, sans-serif; font-weight: bold; }
+
+p.Heading2Warranty, li.Heading2Warranty, div.Heading2Warranty { margin: 6pt=
+ 0in 0in 0.5in; text-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma=
+, sans-serif; font-weight: bold; }
+
+p.Heading3Bold, li.Heading3Bold, div.Heading3Bold { margin: 6pt 0in 0in 53.=
+85pt; text-indent: -17.85pt; font-size: 9.5pt; font-family: Tahoma, sans-se=
+rif; font-weight: normal; }
+
+p.Bullet4Underline, li.Bullet4Underline, div.Bullet4Underline { margin: 6pt=
+ 0in 0in 71.75pt; text-indent: -17.9pt; font-size: 9.5pt; font-family: Taho=
+ma, sans-serif; font-weight: bold; text-decoration: underline; }
+
+p.Bullet3Underline, li.Bullet3Underline, div.Bullet3Underline { margin: 6pt=
+ 0in 0in; text-indent: 0in; font-size: 9.5pt; font-family: Tahoma, sans-ser=
+if; font-weight: bold; text-decoration: underline; }
+
+p.Body2Underline, li.Body2Underline, div.Body2Underline { margin: 6pt 0in 0=
+in 0.5in; text-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma, sans=
+-serif; font-weight: bold; text-decoration: underline; }
+
+p.Body3Underline, li.Body3Underline, div.Body3Underline { margin: 6pt 0in 0=
+in 53.85pt; text-indent: -0.25in; font-size: 9.5pt; font-family: Tahoma, sa=
+ns-serif; font-weight: bold; text-decoration: underline; }
+
+span.BodyTextIndentChar { font-family: Tahoma, sans-serif; }
+
+p.Bullet4Italics, li.Bullet4Italics, div.Bullet4Italics { margin: 6pt 0in 0=
+in 71.75pt; text-indent: -17.9pt; font-size: 9.5pt; font-family: Tahoma, sa=
+ns-serif; font-weight: bold; font-style: italic; }
+
+span.Body2Char { font-family: Tahoma, sans-serif; }
+
+span.Body3Char { font-family: Tahoma, sans-serif; }
+
+span.Body4Char { font-family: Tahoma, sans-serif; }
+
+span.Body1Char { font-family: Tahoma, sans-serif; }
+
+p.PreambleBorderAbove, li.PreambleBorderAbove, div.PreambleBorderAbove { ma=
+rgin: 6pt 0in 0in 1.25in; text-indent: -0.25in; border: none; padding: 0in;=
+ font-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: normal; }
+
+span.FootnoteTextChar { font-family: Tahoma, sans-serif; }
+
+span.EndnoteTextChar { font-family: Tahoma, sans-serif; }
+
+span.CommentTextChar { font-family: Tahoma, sans-serif; }
+
+p.Char, li.Char, div.Char { margin: 0in 0in 8pt 1.25in; text-indent: -0.25i=
+n; line-height: 12pt; font-size: 9.5pt; font-family: Tahoma, sans-serif; fo=
+nt-weight: bold; }
+
+p.CharCharCharChar, li.CharCharCharChar, div.CharCharCharChar { margin: 0in=
+ 0in 8pt 1.25in; text-indent: -0.25in; line-height: 12pt; font-size: 9.5pt;=
+ font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.BalloonTextChar { font-family: Tahoma, sans-serif; }
+
+span.Heading2Char1 { font-family: "Trebuchet MS", sans-serif; font-weight: =
+bold; }
+
+p.CharCharCharChar1, li.CharCharCharChar1, div.CharCharCharChar1 { margin: =
+0in 0in 8pt 1.25in; text-indent: -0.25in; line-height: 12pt; font-size: 9.5=
+pt; font-family: Tahoma, sans-serif; font-weight: bold; }
+
+p.Body0Bold, li.Body0Bold, div.Body0Bold { margin: 0in; text-indent: 0in; f=
+ont-size: 9.5pt; font-family: Tahoma, sans-serif; font-weight: bold; }
+
+p.Body0, li.Body0, div.Body0 { margin: 0in; text-indent: 0in; font-size: 9.=
+5pt; font-family: Tahoma, sans-serif; font-weight: normal; }
+
+span.HeaderChar { font-family: Tahoma, sans-serif; }
+
+span.FooterChar { font-family: Tahoma, sans-serif; }
+
+span.CommentSubjectChar { font-family: Tahoma, sans-serif; font-weight: bol=
+d; }
+
+span.Bullet3Char1 { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+p.Bullet3Underlined, li.Bullet3Underlined, div.Bullet3Underlined { margin: =
+6pt 0in 0in 53.85pt; text-indent: -17.85pt; font-size: 9.5pt; font-family: =
+Tahoma, sans-serif; font-weight: bold; text-decoration: underline; }
+
+span.CharChar { font-family: Tahoma, sans-serif; }
+
+p.AdditionalSoftware, li.AdditionalSoftware, div.AdditionalSoftware { margi=
+n: 0in; text-indent: 0in; line-height: 12pt; font-size: 9pt; font-family: "=
+Trebuchet MS", sans-serif; font-weight: normal; }
+
+span.CharChar1 { font-family: "Trebuchet MS", sans-serif; font-weight: bold=
+; }
+
+p.Bullet4Underlined, li.Bullet4Underlined, div.Bullet4Underlined { margin: =
+6pt 0in 0in 71.75pt; text-indent: -17.9pt; font-size: 9.5pt; font-family: T=
+ahoma, sans-serif; font-weight: bold; text-decoration: underline; }
+
+p.HeadingFrenchWarranty, li.HeadingFrenchWarranty, div.HeadingFrenchWarrant=
+y { margin: 6pt 0in 0in 0.25in; text-indent: -0.25in; font-size: 9.5pt; fon=
+t-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Body3CharCarCarCarCarCarCarCarCarCarCarCarCarCarCarCarCarCarCarCarCarC=
+arCarCarCar { font-family: Tahoma, sans-serif; }
+
+span.tw4winExternal { font-family: "Courier New"; color: gray; }
+
+span.tw4winMark { font-family: "Courier New"; color: purple; display: none;=
+ vertical-align: sub; }
+
+span.PreambleChar { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.tw4winError { font-family: "Courier New"; color: lime; }
+
+span.tw4winTerm { color: blue; }
+
+span.tw4winPopup { font-family: "Courier New"; color: green; }
+
+span.tw4winJump { font-family: "Courier New"; color: teal; }
+
+span.tw4winInternal { font-family: "Courier New"; color: red; }
+
+span.DONOTTRANSLATE { font-family: "Courier New"; color: maroon; }
+
+span.BodyText2Char { font-family: Tahoma, sans-serif; }
+
+p.StyleHeading3BoldAsianTimesNewRoman95pt, li.StyleHeading3BoldAsianTimesNe=
+wRoman95pt, div.StyleHeading3BoldAsianTimesNewRoman95pt { margin: 6pt 0in 0=
+in 53.85pt; text-indent: -17.85pt; font-size: 9.5pt; font-family: Tahoma, s=
+ans-serif; font-weight: bold; }
+
+span.Heading3BoldChar { font-family: Tahoma, sans-serif; }
+
+span.StyleHeading3BoldAsianTimesNewRoman95ptChar { font-family: Tahoma, san=
+s-serif; font-weight: bold; }
+
+span.Body0BoldChar { font-family: Tahoma, sans-serif; font-weight: bold; }
+
+p.LIMPAT4WINEXTERNAL, li.LIMPAT4WINEXTERNAL, div.LIMPAT4WINEXTERNAL { margi=
+n: 0in 0in 0in 1.25in; text-indent: -0.25in; font-size: 10pt; font-family: =
+Tahoma, sans-serif; font-weight: normal; vertical-align: super; }
+
+span.LIMPAT4WINEXTERNALChar { font-family: Tahoma, sans-serif; font-weight:=
+ bold; vertical-align: super; }
+
+p.Heading2FrenchWarranty, li.Heading2FrenchWarranty, div.Heading2FrenchWarr=
+anty { margin: 6pt 0in 0in 0.5in; text-indent: -0.25in; font-size: 9.5pt; f=
+ont-family: Tahoma, sans-serif; font-weight: bold; }
+
+span.Heading1WarrantyCharChar { font-family: Tahoma, sans-serif; font-weigh=
+t: bold; }
+
+span.DocID { font-family: "Times New Roman", serif; }
+
+span.LogoportDoNotTranslate { font-family: "Courier New"; color: gray; font=
+-weight: normal; font-style: normal; }
+
+span.SpellE { }
+
+span.GramE { }
+
+.MsoChpDefault { }
+
+.MsoPapDefault { margin-bottom: 10pt; line-height: 115%; }
+
+@page WordSection1 { margin: 1in; }
+
+div.WordSection1 { }
+
+ol { margin-bottom: 0in; }
+
+ul { margin-bottom: 0in; }
+------MultipartBoundary--jHX3ykSBexnGvGdfopdJOaZkuyFLMHISD8W0EPe3Zd------
